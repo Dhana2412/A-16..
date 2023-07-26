@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\bin\Debug\Assignment-16.exe.config
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\bin\Debug\Assignment-16.exe
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\bin\Debug\Assignment-16.pdb
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\obj\Debug\Assignment-16.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\obj\Debug\Assignment-16.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\obj\Debug\Assignment-16.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\obj\Debug\Assignment-16.exe
+C:\Users\dhana\OneDrive\Documents\26july\Assignment-16\Assignment-16\obj\Debug\Assignment-16.pdb
